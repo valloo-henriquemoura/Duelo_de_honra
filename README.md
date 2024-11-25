@@ -66,7 +66,7 @@ Agradecemos aos desenvolvedores por sua dedicação e trabalho árduo na criaç�
 
 ---
 
-## 🧙‍♂️ Autor
+
 
 <a href="https://github.com/g4lva01">
 <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/153385467?v=4?s=400&u=2acd860cb7b8e36135c22717a860c413e2d02eb4&v=4"/>
