@@ -63,14 +63,3 @@ Agradecemos aos desenvolvedores por sua dedicação e trabalho árduo na criaç�
 2. Crie uma nova branch com as suas alterações: `git checkout -b my-feature`.
 3. Salve as alterações e crie uma mensagem de commit contando o que você fez: `git commit -m "feature: My new feature"`.
 4. Envie as suas alterações: `git push origin my-feature`.
-
----
-
-
-
-<a href="https://github.com/g4lva01">
-<img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/153385467?v=4?s=400&u=2acd860cb7b8e36135c22717a860c413e2d02eb4&v=4"/>
-<br />
-<sub><b>Gabriel Galvão</b></sub></a> <a href="https://github.com/g4lva01" title="Cubos Academy">✨</a>
-
----
